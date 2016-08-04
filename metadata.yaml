@@ -1,0 +1,46 @@
+_repo: C-sar-s-Column--A-Story-of-the-Twentieth-Century_5155
+_version: 0.0.1
+alternative_title: 'Caesar''s Column: A Story of the 20th Century'
+creator:
+  author:
+    agent_name: Donnelly, Ignatius
+    aliases:
+    - Boisgilbert, Edmund
+    - Donnelly, I. L. (Ignatius L.)
+    birthdate: 1831
+    deathdate: 1901
+    gutenberg_agent_id: '1365'
+    url: http://www.gutenberg.org/2009/agents/1365
+    wikipedia: http://en.wikipedia.org/wiki/Ignatius_Donnelly
+description: "Caesar's Column: A Story of the Twentieth Century is a novel by Ignatius\
+  \ Donnelly, famous as the author of Atlantis: The Antediluvian World. Caesar's Column\
+  \ was published pseudonymously in 1890. The book has been variously categorized\
+  \ as science fiction, speculative fiction, dystopian fiction, and/or apocalyptic\
+  \ fiction; one critic has termed it an \"Apocalyptic Utopia.\"\nThe book is also\
+  \ a political novel, and a romance. It was a popular success as well, selling 60,000\
+  \ copies upon its initial publication. Its sales eventually comprised 250,000 copies.\
+  \ Donnelly's novel was one element of the great wave of utopian and dystopian literature\
+  \ during the later nineteenth century and the early twentieth, exemplified by works\
+  \ like Edward Bellamy's Looking Backward and Jack London's The Iron Heel.\n\n\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5155'
+  wikidata: Q5016954
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Twentieth century -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Social problems -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Dystopias -- Fiction'
+- GITenberg
+title: 'Cæsar''s Column: A Story of the Twentieth Century'
+url: http://www.gutenberg.org/ebooks/5155
+wikipedia:
+- https://en.wikipedia.org/wiki/Caesar%27s_Column
