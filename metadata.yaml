@@ -1,6 +1,9 @@
 _repo: C-sar-s-Column--A-Story-of-the-Twentieth-Century_5155
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'Caesar''s Column: A Story of the 20th Century'
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Donnelly, Ignatius
@@ -23,6 +26,8 @@ description: "Caesar's Column: A Story of the Twentieth Century is a novel by Ig
   \ during the later nineteenth century and the early twentieth, exemplified by works\
   \ like Edward Bellamy's Looking Backward and Jack London's The Iron Heel.\n\n\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5155#C-sar-s-Column--A-Story-of-the-Twentieth-Century
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
